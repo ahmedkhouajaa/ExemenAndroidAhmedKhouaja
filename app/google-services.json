@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656937796069",
+    "project_id": "exemenahmed",
+    "storage_bucket": "exemenahmed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656937796069:android:80424b89f740026e1baf0c",
+        "android_client_info": {
+          "package_name": "com.example.exemenahmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-BqGWDppzA8HFsYz7Z-DwnL5frXMeOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
